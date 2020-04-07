@@ -10,7 +10,7 @@ website you can choose from any content, after your choice  take url with your c
 
 Program instructions:
 Username - Insert your Reddit Username
-Password - Insert your Reddit Password
+#Password - Insert your Reddit Password
 Upload time in seconds - Insert time after which the post is uploaded (etc.1200 will be 20 min.)
 Subreddit name - Subreddit name where you want to post GIFs (grab name from url etc. https://www.reddit.com/r/food/ name will be food)
 Title text - Title text you want to post with GIFs (etc. Perfect GIF)
